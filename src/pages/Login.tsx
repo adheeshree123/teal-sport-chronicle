@@ -19,7 +19,7 @@ const Login = () => {
       <div className="w-full max-w-md">
         <div className="flex flex-col items-center mb-8">
           <CalendarDays className="h-16 w-16 text-teal-600 mb-2" />
-          <h1 className="text-3xl font-bold text-teal-800">SportSync</h1>
+          <h1 className="text-3xl font-bold text-teal-800">TurfGame</h1>
           <p className="text-teal-600 mt-2">Sports Event Management</p>
         </div>
         

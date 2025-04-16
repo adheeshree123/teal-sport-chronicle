@@ -17,7 +17,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <CalendarDays className="h-8 w-8 text-teal-600" />
-              <span className="ml-2 text-xl font-bold text-teal-800">SportSync</span>
+              <span className="ml-2 text-xl font-bold text-teal-800">TurfGame</span>
             </Link>
           </div>
           
